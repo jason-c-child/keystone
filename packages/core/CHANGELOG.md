@@ -1,5 +1,11 @@
 # @keystone-6/core
 
+## 5.4.1
+
+### Patch Changes
+
+- [#8733](https://github.com/keystonejs/keystone/pull/8733) [`03ae5bcc2`](https://github.com/keystonejs/keystone/commit/03ae5bcc28daccccf37d689a599565214f33be3b) Thanks [@molomby](https://github.com/molomby)! - Fixes `ui.isDisabled` condition for `keystone start`
+
 ## 5.4.0
 
 ### Minor Changes
